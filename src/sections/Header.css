@@ -1,0 +1,27 @@
+.header-button {
+  display: flex; /* flex */
+  align-items: center; /* items-center */
+  gap: 0.5rem; /* gap-2 (8px) */
+
+  font-weight: 500; /* font-medium */
+  color: var(--on-background); /* text-slate-200 */
+
+  padding-left: 0.75rem; /* px-3 (12px) */
+  padding-right: 0.75rem; /* px-3 (12px) */
+  padding-top: 0.375rem; /* py-1.5 (6px) */
+  padding-bottom: 0.375rem; /* py-1.5 (6px) */
+
+  background-color: var(--foreground);
+  border-width: 1px; /* border */
+  border-style: solid; /* border */
+  border-color: var(--special);
+  border-radius: 0.5rem; /* rounded-lg (8px) */
+
+  transition-property: background; /* transition-all */
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms; /* Default Tailwind transition duration */
+}
+
+.header-button:hover {
+  background-color: var(--inner);
+}

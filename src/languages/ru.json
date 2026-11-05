@@ -1,0 +1,27 @@
+{
+  "title": "Мухаммет Рахимов | Резюме",
+  "header": {
+    "skills": "Навыки",
+    "experience": "Опыт",
+    "education": "Образование",
+    "projects": "Проекты",
+    "contact": "Связаться"
+  },
+  "main": {
+    "name": "Мухаммет Рахимов",
+    "position": "Full-Stack Software Engineer",
+    "location": "Ашхабад, Туркменистан",
+    "experience": "1 год",
+    "open": "Открыт к предложениям"
+  },
+  "skills": {
+    "title": "Навыки",
+    "langs": "Языки программирования",
+    "front": "Front-end",
+    "back": "Back-end",
+    "other": "Инструменты и инфраструктура"
+  },
+  "experience": "Опыт работы",
+  "education": "Образование и подготовка",
+  "projects": "Личные проекты"
+}

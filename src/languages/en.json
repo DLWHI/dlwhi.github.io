@@ -1,0 +1,28 @@
+{
+  "title": "Mukhammet Rakhymov | CV",
+  "header": {
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "main": {
+    "name": "Mukhammet Rakhimov",
+    "position": "Full-Stack Software Engineer",
+    "location": "Ashgabat, TM",
+    "experience": "1 year ",
+    "open": "Open to work"
+  },
+  "skills": {
+    "title": "Skills",
+    "langs": "Programming languages",
+    "front": "Front-end",
+    "back": "Back-end",
+    "desktop": "Desktop development related",
+    "other": "Tools & infrastructure"
+  },
+  "experience": "Experience",
+  "education": "Education & Training",
+  "projects": "Personal projects"
+}

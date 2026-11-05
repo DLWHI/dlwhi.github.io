@@ -1,0 +1,12 @@
+.lang-selector-container {
+  color: var(--secondary);
+  font-size: medium;
+  font-weight: 600;
+  margin: 0px 0.5rem;
+}
+
+.lang-selector-item {
+  background-color: var(--secondary);
+  font-size: medium;
+  color: var(--on-foreground);
+}

@@ -1,0 +1,12 @@
+:root {
+  --background: #000000;
+  --foreground: #181818;
+  --inner: #2e303a;
+  --inner-hover: #4e5269;
+  --on-background: #bfbfbf;
+  --on-foreground: #ffffff;
+  --secondary: #8f8f8f;
+  --special: #2596be;
+  --on-special: #181818;
+  --foreground-focus: #283b2f;
+}
