@@ -46,7 +46,7 @@ export function FindFriendRU() {
           <span className="text-special"> @ Find-Friend.info</span>
         </h3>
         <div className="bg-inner border-special border-1 text-secondary text-sm p-2 rounded">
-          November 2025 — February 2026
+          Ноябрь 2025 — Февраль 2026
         </div>
       </div>
       <ul className="space-y-1">

@@ -26,10 +26,10 @@ function Header() {
         </nav>
         <div className="flex-bar-end">
           <LangSelector />
-          <button onClick={() => window.print()} className="header-button">
+          {/* <button onClick={() => window.print()} className="header-button">
             <PrintIcon width={20} height={20} />
             <span>PDF</span>
-          </button>
+          </button> */}
           <a
             target="_blank"
             href="https://t.me/dlwhi"

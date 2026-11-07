@@ -13,8 +13,7 @@ export function MediaTurkmenEN() {
       <ul className="space-y-1">
         <li>
           Designed and built a REST API CMS in Go serving both web and mobile
-          clients, using MySQL, Redis and Meilisearch for storage, caching and
-          search.
+          clients, with storage, caching and search features.
         </li>
         <li>
           Migrated the existing database to a new, more stable architecture with
@@ -49,17 +48,17 @@ export function MediaTurkmenRU() {
       <div className="flex-container">
         <h3>
           <span className="text-on-background">Full-Stack Веб разработчик</span>
-          <span className="text-special"> @ Медиа Туркмен</span>
+          <span className="text-special"> @ Media Turkmen</span>
         </h3>
         <div className="bg-inner border-special border-1 text-secondary text-sm p-2 rounded">
-          Апрель 2026 — Present
+          Апрель 2026 — Настоящее время
         </div>
       </div>
       <ul className="space-y-1">
         <li>
           Разработал и реализовал REST API CMS на Go для мобильных и веб
-          клиентов, с использованием MySQL, Redis and Meilisearch для хранения,
-          кеширования и поиска информации соответственно.
+          клиентов, с системами хранения, кеширования и поиска информации
+          соответственно.
         </li>
         <li>
           Перенес существующую базу данных на более стабильную архитектуру, без
@@ -75,16 +74,6 @@ export function MediaTurkmenRU() {
           проблем
         </li>
       </ul>
-      <div className="flex-bar flex-wrap">
-        <span className="tech">Next.js</span>
-        <span className="tech">React/Typescript</span>
-        <span className="tech">PHP/Laravel</span>
-        <span className="tech">Go</span>
-        <span className="tech">Redis</span>
-        <span className="tech">Meilisearch</span>
-        <span className="tech">MySQL</span>
-        <span className="tech">Proxmox</span>
-      </div>
     </div>
   );
 }
