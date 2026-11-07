@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import PrintIcon from "../assets/print.svg?react";
 import TelegramIcon from "../assets/telegram-outlined.svg?react";
 import "./Header.css";
 import LangSelector from "../components/LangSelector";
